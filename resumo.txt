@@ -1,0 +1,10 @@
+Utilização do Microsoft Copilot.
+
+Criando um agente baseado em modelo:
+Na página do copilotstudio.microsoft.com há opções pré-definidas para você criar seu agente, como de viagens.
+
+Criando um copilot baseado em descrição com IA:
+Na tela inicial há uma barra de pesquisa onde você pode colocar um prompt para gerar um agente.
+
+Criar um copilot em branco:
+Na aba de criar você pode conversar com uma IA que pedirá nome do agente, função, etc., ou ir para uma aba para preencher as informações, mudar idioma, colocar em uma solução criada pela make.powerapps.com
