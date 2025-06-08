@@ -1,0 +1,14 @@
+- Criar um tópico em branco:
+Basta ir na aba Criar > Criar novo agente > informar nome, objetivo, dentre outras informações no chat do Copilot ou na aba "Ignorar para configurar" e informar diretamente.
+
+- Customizar um tópico:
+Após criar um agente você pode clicar em "Adicionar um tópico" e escolher entre "A partir de documento em branco" sendo mais manual ou "Criar da descrição com Copilot"
+sendo mais automatizado.
+
+- Personalizar uma mensagem de erro de tópico:
+Dentro dos tópicos você pode criar questões, mensagens, dentre outras situações, como uma mensagem referenciando uma variável em caso de erro de input, podendo levar para
+outro nó, etc.
+
+- Aumentar e diminuir a quantidade da resposta com GenAI:
+Na aba configurações você define se deseja a opção clássica com menos interferência de IA ou mais dinâmica com mais utilização da inteligência artifical, podendo regulá-la
+se será mais criativa, diversa, se consultará a web ou apenas o que possui em sua base de dados.
